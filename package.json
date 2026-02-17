@@ -1,0 +1,26 @@
+{
+  "name": "symfony-modern-pack",
+  "displayName": "Symfony Modern Pack",
+  "publisher": "sdieunidou",
+  "description": "A curated collection of essential extensions for modern PHP and Symfony development. Includes support for Symfony 6+, Twig 3, and IntelliJ keybindings.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "DEVSENSE.composer-php-vscode",
+    "DEVSENSE.phptools-vscode",
+    "MehediDracula.php-namespace-resolver",
+    "DEVSENSE.profiler-php-vscode",
+    "SplasHmiCH.symfony-vscode-fixed",
+    "Chaxwell.twig-link-resolver",
+    "moetelo.twiggy",
+    "TGOSystems.ultimate-twig",
+    "SanderVerschoor.vscode-symfony-ux-twig-component",
+    "k--kato.intellij-idea-keybindings",
+    "junstyle.php-cs-fixer"
+  ]
+}
