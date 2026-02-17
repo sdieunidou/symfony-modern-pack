@@ -4,9 +4,9 @@
   "publisher": "sdieunidou",
   "repository": "https://github.com/sdieunidou/symfony-modern-pack",
   "description": "A curated collection of essential extensions for modern PHP and Symfony development. Includes support for Symfony 6+, Twig 3, and IntelliJ keybindings.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.109.0"
+    "vscode": "^1.75.0"
   },
   "categories": [
     "Extension Packs"
